@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Knot</string>
+
+    <!--Generated google-services-->
+    <string name="default_web_client_id" translatable="false">1066330571573-53hlb52838qp6v1oqgbnifrcit9ev0ch.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://knot-lap12.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1066330571573</string>
+    <string name="google_api_key" translatable="false">AIzaSyAX3oNOl1Ys8ZlUp5f3PD9dFNjtvwJkLak</string>
+    <string name="google_app_id" translatable="false">1:1066330571573:android:a266917ac1971f10</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAX3oNOl1Ys8ZlUp5f3PD9dFNjtvwJkLak</string>
+    <string name="google_storage_bucket" translatable="false">knot-lap12.appspot.com</string>
+    <string name="project_id" translatable="false">knot-lap12</string>
+
+    <!--App Intro-->
+    <string name="skip">Пропустить</string>
+    <string name="welcome_title">Добро пожаловать!</string>
+    <string name="welcome_description">Knot - твой персональный \n помощник в уходе за одеждой</string>
+    <string name="library_title">Библиотека</string>
+    <string name="library_description">Фотографируй ярлыки и создавай \n свою личную коллекцию</string>
+    <string name="encyclopedia_title">Энциклопедия</string>
+    <string name="encyclopedia_description">Узнай значения всех символов \n по уходу за одеждой</string>
+
+    <!--Auth-->
+    <string name="title_sing_in">Вход в систему</string>
+    <string name="sing_in_with_facebook">Войти через Facebook</string>
+    <string name="sing_out">Выйти</string>
+    <string name="sing_in_with_google">Войти через Google</string>
+
+    <!--Nav Bottom-->
+    <string name="menu_action_home">Home</string>
+    <string name="menu_action_camera">Camera</string>
+    <string name="menu_action_library">Library</string>
+
+    <!--Menu-->
+    <string name="exit">Выйти</string>
+
+</resources>

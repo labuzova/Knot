@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1066330571573",
+    "firebase_url": "https://knot-lap12.firebaseio.com",
+    "project_id": "knot-lap12",
+    "storage_bucket": "knot-lap12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066330571573:android:a266917ac1971f10",
+        "android_client_info": {
+          "package_name": "com.labuzova.knot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066330571573-6l1g12p82qklmk6re3ik1ikoatvtg7ie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.labuzova.knot",
+            "certificate_hash": "7986489391b5de6e740c071ab45aa3cef182033c"
+          }
+        },
+        {
+          "client_id": "1066330571573-53hlb52838qp6v1oqgbnifrcit9ev0ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX3oNOl1Ys8ZlUp5f3PD9dFNjtvwJkLak"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066330571573-53hlb52838qp6v1oqgbnifrcit9ev0ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
