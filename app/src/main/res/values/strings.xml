@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">Knot</string>
 
     <!--Generated google-services-->
@@ -13,12 +14,12 @@
 
     <!--App Intro-->
     <string name="skip">Пропустить</string>
-    <string name="welcome_title">Добро пожаловать!</string>
-    <string name="welcome_description">Knot - твой персональный \n помощник в уходе за одеждой</string>
-    <string name="library_title">Библиотека</string>
-    <string name="library_description">Фотографируй ярлыки и создавай \n свою личную коллекцию</string>
-    <string name="encyclopedia_title">Энциклопедия</string>
-    <string name="encyclopedia_description">Узнай значения всех символов \n по уходу за одеждой</string>
+    <string name="app_intro_welcome_title">Добро пожаловать!</string>
+    <string name="app_intro_welcome_description">Knot - твой персональный \n помощник в уходе за одеждой</string>
+    <string name="app_intro_library_title">Библиотека</string>
+    <string name="app_intro_library_description">Фотографируй ярлыки и создавай \n свою личную коллекцию</string>
+    <string name="app_intro_encyclopedia_title">Энциклопедия</string>
+    <string name="app_intro_encyclopedia_description">Узнай значения всех символов \n по уходу за одеждой</string>
 
     <!--Auth-->
     <string name="title_sing_in">Вход в систему</string>
@@ -27,11 +28,59 @@
     <string name="sing_in_with_google">Войти через Google</string>
 
     <!--Nav Bottom-->
-    <string name="menu_action_home">Home</string>
-    <string name="menu_action_camera">Camera</string>
-    <string name="menu_action_library">Library</string>
+    <string name="menu_action_home">Главная</string>
+    <string name="menu_action_add_item">Новая запись</string>
+    <string name="menu_action_library">Библиотека</string>
 
     <!--Menu-->
-    <string name="exit">Выйти</string>
+    <string name="menu_action_exit">Выйти</string>
+
+    <!--Encyclopedia-->
+    <!--washing-->
+    <string name="encyclopedia_washing">Стирка</string>
+    <string name="encyclopedia_washing_normal">Обычная стирка</string>
+    <string name="encyclopedia_washing_do_not_wash">Стирка запрещена</string>
+    <string name="encyclopedia_washing_gentle_wash">Щадящая стирка</string>
+    <string name="encyclopedia_washing_delicate_wash">Деликатная стирка</string>
+    <string name="encyclopedia_washing_hand_wash">Ручная стирка</string>
+    <string name="encyclopedia_washing_30_degrees">Стирка в холодной воде (до 30°С)</string>
+    <string name="encyclopedia_washing_40_degrees">Стирка в теплой воде (до 40°С)</string>
+    <string name="encyclopedia_washing_50_degrees">Стирка в горячей воде (от 50°С и выше)</string>
+    <!--whitening-->
+    <string name="encyclopedia_whitening_normal">Отбеливание</string>
+    <string name="encyclopedia_whitening_allowed">Отбеливание разрешено</string>
+    <string name="encyclopedia_whitening_only_non_chlorin">Отбеливание без хлора</string>
+    <string name="encyclopedia_whitening_do_not">Отбеливание запрещено</string>
+    <!--drying-->
+    <string name="encyclopedia_drying_normal">Сушка</string>
+    <string name="encyclopedia_drying_allowed">Можно сушить</string>
+    <string name="encyclopedia_drying_drip_dry">Сушить без отжима в подвешенном состоянии</string>
+    <string name="encyclopedia_drying_vertical">Сушить после отжима в подвешенном состоянии</string>
+    <string name="encyclopedia_drying_horizontal">Сушить без отжима на горизонтальной поверхности</string>
+    <string name="encyclopedia_drying_in_the_shade">Сушить в тени</string>
+    <!--dry cleaning-->
+    <string name="encyclopedia_dry_cleaning">Хим. чистка</string>
+    <string name="encyclopedia_dry_cleaning_normal">Сухая чистка</string>
+    <string name="encyclopedia_dry_cleaning_any_solvent">Сухая чистка с любым растворителем</string>
+    <string name="encyclopedia_dry_cleaning_only_gentle_solvents">Сухая чистка с использованием растворителей, которые обозначаются символом F (углеводород и трифлотрихлорметан)</string>
+    <string name="encyclopedia_dry_cleaning_trichlorethylene_free">Сухая чистка с общепринятыми растворителями, которые обозначаются символом Р (углеводород, монофтортрихлорметан, хлорный этилен)</string>
+    <string name="encyclopedia_dry_cleaning_aquaclist">Мокрая чистка</string>
+    <string name="encyclopedia_dry_cleaning_do_not">Химическая чистка запрещена</string>
+    <!--squeeze out-->
+    <string name="encyclopedia_squeeze_out">Отжим</string>
+    <string name="encyclopedia_squeeze_out_normal">Разрешена машинная сушка</string>
+    <string name="encyclopedia_squeeze_out_low_temperature">Разрешена низкотемпературная машинная сушка</string>
+    <string name="encyclopedia_squeeze_out_normal_temperature">Разрешена среднетемпературная машинная сушка</string>
+    <string name="encyclopedia_squeeze_out_heat">Разрешена высокотемпературная машинная сушка</string>
+    <string name="encyclopedia_squeeze_out_do_not">Машинная сушка запрещена</string>
+    <string name="encyclopedia_squeeze_out_no_rope">Выжимать запрещено</string>
+    <!--ironing-->
+    <string name="encyclopedia_ironing">Глажка</string>
+    <string name="encyclopedia_ironing_normal">Глажка разрешена</string>
+    <string name="encyclopedia_ironing_low_temperature">Глажка при низкой температуре (до 110°С)</string>
+    <string name="encyclopedia_ironing_average_temperature">Глажка при средней температуре (до 150°С)</string>
+    <string name="encyclopedia_ironing_heat">Глажка при высокой температуре (до 200°С)</string>
+    <string name="encyclopedia_ironing_do_not">Глажка запрещена</string>
+
 
 </resources>
