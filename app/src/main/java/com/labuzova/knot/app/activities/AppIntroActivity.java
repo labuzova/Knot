@@ -20,9 +20,6 @@ import androidx.annotation.Nullable;
 
 public class AppIntroActivity extends AppIntro {
 
-    private int colorBlue = getResources().getColor(R.color.colorPrimary);
-    private int colorGray = getResources().getColor(R.color.light_gray);
-
     BroadcastReceiver broadcastReceiver = new BroadcastReceiver() {
         @Override
         public void onReceive(Context context, Intent intent) {
@@ -39,9 +36,13 @@ public class AppIntroActivity extends AppIntro {
         registerReceiver(broadcastReceiver,
                 new IntentFilter("com.labuzova.action.close"));
 
+
         addSlide(new AppIntroWelcomeFragment());
         addSlide(new AppIntroLibraryFragment());
         addSlide(new AppIntroEncyclopediaFragment());
+
+        int colorBlue = getResources().getColor(R.color.colorPrimary);
+        int colorGray = getResources().getColor(R.color.light_gray);
 
         showStatusBar(false);
         showSeparator(false);
