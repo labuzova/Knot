@@ -31,5 +31,5 @@ _Приложение находится в стадии разработки_
  <img src="https://github.com/labuzova/img/blob/master/device-2019-04-03-121714.png" width="250">
  
 ## Контакты
-Linkedin: <a href="www.linkedin.com/in/anastasiya-labuzova">www.linkedin.com/in/anastasiya-labuzova</a><br/>
+Linkedin: <a href="https://www.linkedin.com/in/anastasiya-labuzova">https://www.linkedin.com/in/anastasiya-labuzova</a><br/>
 Skype: <a href="skype:anastasia.labuzova">anastasia.labuzova</a>
