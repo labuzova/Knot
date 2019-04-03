@@ -15,19 +15,19 @@ _Приложение находится в стадии разработки_
 # Что сделано
 
 На данный момент реализовано **AppIntro**.
-  <table>
-    <tr>
-      <td><img src="https://github.com/labuzova/img/blob/master/device-2019-04-03-120315.png" width="250"></td>
-      <td></td>
-      <td><img src="https://github.com/labuzova/img/blob/master/device-2019-04-03-120345.png" width="250"></td>
-      <td></td>
-      <td><img src="https://github.com/labuzova/img/blob/master/device-2019-04-03-120355.png" width="250"></td>
-  </tr>
-</table>
+  <p>
+     <img src="https://github.com/labuzova/img/blob/master/device-2019-04-03-120315.png" width="250">
+     <img src="https://github.com/labuzova/img/blob/master/device-2019-04-03-120345.png" width="250">
+     <img src="https://github.com/labuzova/img/blob/master/device-2019-04-03-120355.png" width="250">
+  </p>
 
-А так же есть возможность **авторизации** через аккаунт Google.<br/><br/>
- <img src="https://github.com/labuzova/img/blob/master/device-2019-04-03-120423.png" width="250"> <br/><br/>
-И **справочник** по иконкам на бирках.<br/><br/>
+А так же есть возможность **авторизации** через аккаунт Google.
+
+ <img src="https://github.com/labuzova/img/blob/master/device-2019-04-03-120423.png" width="250"> 
+ 
+ 
+И **справочник** по иконкам на бирках.
+
  <img src="https://github.com/labuzova/img/blob/master/device-2019-04-03-121714.png" width="250">
  
 ## Контакты
